@@ -1,0 +1,23 @@
+{
+  "name": "@muoka/tiny",
+  "version": "1.0.0",
+  "description": "tiny demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MuokaPWambua/tiny.git"
+  },
+  "keywords": [
+    "demo",
+    "tiny"
+  ],
+  "author": "muoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuokaPWambua/tiny/issues"
+  },
+  "homepage": "https://github.com/MuokaPWambua/tiny#readme"
+}
